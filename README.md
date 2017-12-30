@@ -6,6 +6,9 @@
 - Instruction here:
 - https://docs.google.com/document/d/1_GEUDvlfoMfuLhzthw_ueaet4THOhnC-rADBs_4Lf44/edit
 
+### Example video for this app:
+- https://www.youtube.com/watch?v=HgUc8HaOBOU&feature=youtu.be
+
 ### Required feature:
 - Listview that show product image, title and description
 - Extra 1: detailed information after tapping the product
